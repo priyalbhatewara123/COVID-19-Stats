@@ -5,3 +5,10 @@ Image by <a href="https://pixabay.com/users/PublicDomainPictures-14/?utm_source=
 
 **Fonts Used :**
 * Carter One
+
+```
+**Dependencies added:**
+* implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+* implementation 'com.github.blackfizz:eazegraph:1.2.2@aar'
+* implementation 'com.nineoldandroids:library:2.4.0'
+```
