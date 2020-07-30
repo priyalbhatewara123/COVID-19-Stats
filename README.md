@@ -10,6 +10,7 @@ Image by <a href="https://pixabay.com/users/PublicDomainPictures-14/?utm_source=
 * implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
 * implementation 'com.github.blackfizz:eazegraph:1.2.2@aar'
 * implementation 'com.nineoldandroids:library:2.4.0'
+* implementation "androidx.cardview:cardview:1.0.0"
 
 **Libraries Used:**
 * <a href="https://github.com/blackfizz/EazeGraph">EazeGraph</a>
