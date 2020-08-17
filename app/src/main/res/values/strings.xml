@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">COVID-19 Stats</string>
+    <string name="splash1">Made with ❤ in India\nBy : Priyal Bhatewara</string>
+    <string name="india">COVID-19 Stats \n INDIA</string>
 </resources>
